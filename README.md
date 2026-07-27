@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Building%20The%20Future%20With%20AI&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=nishith002&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/nishith002?style=for-the-badge&logo=github"/>
