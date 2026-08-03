@@ -104,27 +104,6 @@ I'm passionate about building intelligent software using modern AI technologies.
 
 <div align="center">
 
-## 📈 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishith002&theme=tokyonight"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishith002&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishith002&theme=tokyonight"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishith002&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishith002&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
----
-
-<div align="center">
-
 ## Connect With Me
 
 <a href="https://github.com/nishith002">
@@ -157,12 +136,3 @@ I'm passionate about building intelligent software using modern AI technologies.
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-*"Turning ideas into intelligent AI solutions."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
-
-</div>
